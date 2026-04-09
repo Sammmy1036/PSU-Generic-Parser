@@ -18,7 +18,7 @@ Mods you create should be placed in the **Addon** folder and they will automatic
 ### Common File Extensions & Their Purpose
 
 | Extension | Description |
-|-----------|-------------|
+|-----------|:------------|
 | **ADX**   | Sound files (music, sound effects, voice acting) |
 | **BIN**   | Text files and scripts (dialogue, menus, item descriptions, mission/enemy scripts). Often paired with **.k** files. |
 | **DAT**   | General binary containers/archives (can contain almost anything) |
