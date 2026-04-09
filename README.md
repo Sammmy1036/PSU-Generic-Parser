@@ -1,18 +1,18 @@
 # Phantasy Star Universe Generic Parser
 
-**PSULib**, **PSU Generic Parser** for *Phantasy Star Universe*.
+**PSU Generic Parser** for *Phantasy Star Universe*.
 
 ## What's Included
 
+- **PSU Generic Parser**: A general-purpose research and editing tool focused on individual files.  
 - **PSULib**: Core DLL containing all file format classes.
-- **PSU Generic Parser** (Resurrected): A general-purpose research and editing tool focused on individual files. It does **not** correlate data across files (e.g., weapon stats and star ratings are edited separately).  
 
 ## How to Use the PSU Generic Parser
 
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
 Mods you create should be placed in the **Addon** folder — they will automatically load when the game launches.
 
-1. Open the tool → **File > Open** → select a hashed file from the DATA folder.
+1. Open the tool → **File → Open** → select a hashed file from the DATA folder.
 2. The parser will automatically decrypt the file (if supported) and display its contents.
 
 ### Common File Extensions & Their Purpose
@@ -43,30 +43,6 @@ To **replace** audio:
 - Rename the resulting `.adx` to match the original hashed filename (remove the `.adx` extension).
 
 Some audio may also be embedded inside `.dat` files and can sometimes be previewed by importing raw data into Audacity.
-
-## Supported Data (PSU Generic Parser)
-
-### Gameplay
-- `itemCommonInfo.xnr` (view/edit)
-- `itemBulletParam*.xnr`, `itemSkillParam*.xnr`, `itemTechParam*.xnr`, `itemLineUnitParam.xnr`, `itemPartsParam.xnr`, `itemSuitParam.xnr`, `itemWeaponParam*.xnr`
-- `itemEnemyDrop.xnr`
-- `EnemyLevelBaseParam.xnr`
-- `*Tutor.bin` enemy scripts
-- `obj_param.xnr`, `obj_particle_info.xnr` (rough support)
-
-### Missions
-- `enemy_*.xnr` — Monster layout data
-- `set_r*.rel` — Object layout data
-- `.bin` mission scripts
-
-### Aesthetic
-- **XVR** textures (view/edit)
-- **XNT** texture lists (view/edit)
-- **NOM** animations (view only, very rough)
-- `partsinfo.xnr` — Character appearance mapping
-
-### Miscellaneous
-- `.k` / `.bin` text files
 
 ## Special Thanks
 - **essen** — Initial research and [gasetools](https://github.com/essen/gasetools)
