@@ -40,11 +40,6 @@ Aesthetic:
 Miscellaneous:
   - .k/.bin text files (view/edit): Game text.
 
-# TO-DO List
-  - Replace the awful script editor
-  - Add support for player model textures
-  - Add a few other related projects
-
 # Special Thanks
   - essen: initial research on PSU's file formats, including [gasetools](https://github.com/essen/gasetools).
   - scriptkiddie: Heavy research into PSU's data formats
