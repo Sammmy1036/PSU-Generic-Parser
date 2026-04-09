@@ -10,7 +10,7 @@
 ## How to Use the PSU Generic Parser
 
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
-Mods you create should be placed in the **Addon** folder — they will automatically load when the game launches.
+Mods you create should be placed in the **Addon** folder and they will automatically load when the game launches.
 
 1. Open the tool → **File → Open** → select a hashed file from the DATA folder.
 2. The parser will automatically decrypt the file (if supported) and display its contents.
