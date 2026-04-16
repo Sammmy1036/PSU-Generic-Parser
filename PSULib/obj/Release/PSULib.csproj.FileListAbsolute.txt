@@ -4,3 +4,9 @@ C:\Users\Sammy\Downloads\tenora-works-main\PSULib\obj\Release\PSULib.csproj.Asse
 C:\Users\Sammy\Downloads\tenora-works-main\PSULib\obj\Release\PSULib.csproj.CoreCompileInputs.cache
 C:\Users\Sammy\Downloads\tenora-works-main\PSULib\obj\Release\PSULib.dll
 C:\Users\Sammy\Downloads\tenora-works-main\PSULib\obj\Release\PSULib.pdb
+D:\Games\PSU Tools\tenora-works-main\PSULib\bin\Release\PSULib.dll
+D:\Games\PSU Tools\tenora-works-main\PSULib\bin\Release\PSULib.pdb
+D:\Games\PSU Tools\tenora-works-main\PSULib\obj\Release\PSULib.csproj.AssemblyReference.cache
+D:\Games\PSU Tools\tenora-works-main\PSULib\obj\Release\PSULib.csproj.CoreCompileInputs.cache
+D:\Games\PSU Tools\tenora-works-main\PSULib\obj\Release\PSULib.dll
+D:\Games\PSU Tools\tenora-works-main\PSULib\obj\Release\PSULib.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sammy\\Downloads\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj": {}
+    "D:\\Games\\PSU Tools\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sammy\\Downloads\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj": {
+    "D:\\Games\\PSU Tools\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj": {
       "version": "2.0.2",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sammy\\Downloads\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj",
+        "projectUniqueName": "D:\\Games\\PSU Tools\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj",
         "projectName": "WPFHexaEditor",
-        "projectPath": "C:\\Users\\Sammy\\Downloads\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj",
+        "projectPath": "D:\\Games\\PSU Tools\\tenora-works-main\\WPFHexaEditor\\WpfHexEditorCore.csproj",
         "packagesPath": "C:\\Users\\Sammy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sammy\\Downloads\\tenora-works-main\\WPFHexaEditor\\obj\\",
+        "outputPath": "D:\\Games\\PSU Tools\\tenora-works-main\\WPFHexaEditor\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net47": {
@@ -59,11 +59,11 @@
               "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         },
         "net48": {
           "targetAlias": "net48",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
