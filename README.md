@@ -60,6 +60,7 @@ Some audio may also be embedded inside `.dat` files and can sometimes be preview
 - Application now launches center screen
 - Hints are now displayed if a file cannot be opened and provides possible resolution
 - .NET framework moved to 4.8
+- C# language moved to 12.0
 
 ---
 
