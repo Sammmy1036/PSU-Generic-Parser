@@ -54,13 +54,14 @@ Some audio may also be embedded inside `.dat` files and can sometimes be preview
 - [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl)
 
 ## Whats Changed
-- Can now read/extract archives which are identified as ADX instead of being blank
+- Can now read/extract archives which are identified as ADX instead of application reading null
 - Fixes OutOfMemoryException error (Now allows opening/exporting of large files)
 - Fixes Application Not Responding when clicking large files in the tree view
+- Fixes export from folder to now correctly extract all hashed files
 - Application now launches center screen
 - Hints are now displayed if a file cannot be opened and provides possible resolution
 - .NET framework moved to 4.8
 - C# language moved to 12.0
-
+- Updated PSULib to support raw byte reads
 ---
 
