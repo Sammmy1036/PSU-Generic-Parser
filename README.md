@@ -1,10 +1,13 @@
-# Phantasy Star Universe Generic Parser
+# Phantasy Star Archive Explorer
 
-**PSU Generic Parser** for *Phantasy Star Universe*.
+**PSU Archive Explorer** for *Phantasy Star Universe*.
+
+_(Forked from Tenora Works PSU Generic Parser)_
 
 ## What's Included
 
-- **PSU Generic Parser**: A general-purpose research and editing tool focused on individual files.  
+- **PSU Archive Explorer**: A general-purpose research and editing tool focused on individual files.
+- **AdxDecoder**: Automatic decoding of ADX audio files to WAV format.
 - **PSULib**: Core DLL containing all file format classes.
 
 ## Whats Changed
@@ -64,11 +67,12 @@ Some audio may also be embedded inside `.dat` files and can sometimes be preview
 ## Special Thanks
 - **essen** — Initial research and [gasetools](https://github.com/essen/gasetools)
 - **scriptkiddie** — Heavy research into PSU data formats
-- **Agrathejagged** — FPB Extractor improvements, documentation, and contribution to modding in general for PSU
+- **Agrathejagged** — Original PSU Generic Parser, documentation, and the general footing for all things modding for PSU
+-**VGStream Team** - KC for PSU AOTI
 
 ## Included Third-Party Code
 - GIMSharp from [Puyo Tools](https://github.com/nickworonekin/puyotools)
 - [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl)
-
+- PSU Generic Parser & PSULib from (https://github.com/Agrathejagged/tenora-works)
 ---
 
