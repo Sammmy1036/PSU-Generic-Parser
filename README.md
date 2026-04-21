@@ -29,7 +29,7 @@ Updates
 - .NET framework moved to 4.8
 - C# language moved to 12.0
 
-## How to Use the PSU Generic Parser
+## How to Use the PSU Archive Explorer
 
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
 Mods you create should be placed in the **Addon** folder and they will automatically load when the game launches.
