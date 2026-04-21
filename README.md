@@ -67,8 +67,8 @@ Some audio may also be embedded inside `.dat` files and can sometimes be preview
 ## Special Thanks
 - **essen** — Initial research and [gasetools](https://github.com/essen/gasetools)
 - **scriptkiddie** — Heavy research into PSU data formats
-- **Agrathejagged** — Original PSU Generic Parser, documentation, and the general footing for all things modding for PSU
--**VGStream Team** - KC for PSU AOTI
+- **Agrathejagged** — Tenora Works, documentation, and the general footing for all things modding for PSU
+- **VGStream Team** - KC for PSU AOTI
 
 ## Included Third-Party Code
 - GIMSharp from [Puyo Tools](https://github.com/nickworonekin/puyotools)
