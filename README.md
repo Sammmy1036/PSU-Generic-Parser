@@ -10,6 +10,7 @@
 ## Whats Changed
 
 New Features
+- Now exports ADX formats to WAV
 - Now reads/extracts archives which are identified as ADX instead of being read as null
 - Now provides hints which will display if a file cannot be open and provides possible resolution
 - PSULib now supports raw byte reads
