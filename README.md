@@ -7,21 +7,20 @@
 - **PSU Generic Parser**: A general-purpose research and editing tool focused on individual files.  
 - **PSULib**: Core DLL containing all file format classes.
 
-## New Features
+## Whats Changed
 
+New Features
 - Now reads/extracts archives which are identified as ADX instead of being read as null
 - Now provides hints which will display if a file cannot be open and provides possible resolution
 - PSULib now supports raw byte reads
   
-## Bug Fixes
-
+Bug Fixes
 - Fixes OutOfMemoryException error (Now allows opening/exporting of large files)
 - Fixes Application Not Responding when clicking large files in the tree view
 - Fixes export from folder to now correctly extract all hashed files
 - Fixes application and dialogue boxes not launching center screen
 
-## Updates
-
+Updates
 - .NET framework moved to 4.8
 - C# language moved to 12.0
 
