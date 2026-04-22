@@ -24,7 +24,7 @@ Bug Fixes
 - Fixes Application Not Responding when clicking large files in the tree view
 - Fixes export from folder to now correctly extract all hashed files
 - Fixes application and dialogue boxes not launching center screen
-- Fixed application crash when clicking in the .rel tree viewer box
+- Fixes application crash when clicking in the .rel tree viewer box
 
 Updates
 - .NET framework moved to 4.8
