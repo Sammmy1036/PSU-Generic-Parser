@@ -1,4 +1,4 @@
-# Phantasy Star Archive Explorer
+# Phantasy Star Universe Archive Explorer
 
 **PSU Archive Explorer** for *Phantasy Star Universe*.
 
