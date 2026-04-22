@@ -25,7 +25,7 @@ Bug Fixes
 - Fixes export from folder to now correctly extract all hashed files
 - Fixes application and dialogue boxes not launching center screen
 - Fixes application crash when clicking in the .rel tree viewer box
-- Fixes application from freezing when moving the window on batch
+- Fixes application from not responding when moving the window on batch
 
 Updates
 - .NET framework moved to 4.8
