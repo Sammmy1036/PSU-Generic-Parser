@@ -25,7 +25,6 @@ New Features
 - Now provides hints which will display if a file cannot be open and provides possible resolution
 - Now provides a preview of ADX and DAT Sound Files Directly in PSU Archive Explorer prior to export
 - PSULib now supports raw byte reads
-<img src="https://i.imgur.com/gJSrtHh.png" width="800">
 
 Bug Fixes
 - Fixes OutOfMemoryException error (Now allows opening/exporting of large files)
@@ -67,6 +66,9 @@ Mods you create should be placed in the **Addon** folder and they will automatic
 | **XNR**   | Parameter/data table files (item stats, weapons, enemy drops, skills, technics, AI, etc.) |
 | **XNT**   | Texture list / material mapping files (links texture slots in models to actual XVR textures) |
 | **XVR**   | Texture files (characters, environments, UI, etc.) |
+
+**ADX & DAT Sound Previewer**
+<img src="https://i.imgur.com/gJSrtHh.png" width="800">
 
 **Note**: To **replace** audio:
 - Convert your `.wav` to ADX using **ADX Converter & Player** (available on GameBanana: https://gamebanana.com/tools/6491).
