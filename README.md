@@ -2,7 +2,9 @@
   <img src="https://i.imgur.com/1xOwaKY.png" width="250" alt="PSU Archive Explorer">
 </p>
 
-<h1 align="center">Phantasy Star Universe Archive Explorer</h1>  <strong>PSU Archive Explorer</strong> for <em>Phantasy Star Universe</em>.<br>
+<p align="center">
+  <h1 align="center">Phantasy Star Universe Archive Explorer</h1>  <strong>PSU Archive Explorer</strong> for <em>Phantasy Star Universe</em>.<br>
+</p>
 
 <p align="center">
   <strong>PSU Archive Explorer</strong> for <em>Phantasy Star Universe</em>.<br>
