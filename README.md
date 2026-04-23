@@ -1,14 +1,18 @@
+<center>
+![PSU Archive Explorer](https://i.imgur.com/1xOwaKY.png)
 # Phantasy Star Universe Archive Explorer
 
 **PSU Archive Explorer** for *Phantasy Star Universe*.
 
 _(Forked from Tenora Works PSU Generic Parser)_
+</center>
 
 ## What's Included
 
 - **PSU Archive Explorer**: A general-purpose research and editing tool focused on individual files.
 - **AdxDecoder**: Automatic decoding of ADX audio files to WAV format.
 - **DATConverter**: Automatic header removal and conversion of DAT sound files to WAV format.
+- **AdxDat Previewer**: Prepares ADX and DAT Sound files for preview.
 - **PSULib**: Core DLL containing all file format classes.
 
 ## Whats Changed
