@@ -38,9 +38,6 @@ Updates
 - .NET framework moved to 4.8
 - C# language moved to 12.0
 
-Upcoming Features
-- Video file .sfd previewer
-
 ## How to Use the PSU Archive Explorer
 
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
