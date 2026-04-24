@@ -79,6 +79,10 @@ Mods you create should be placed in the **Addon** folder and they will automatic
 
 If you want to edit audio files which are packed in .dat files, it is recommended to edit inside of Audacity in raw .dat format to preserve file headers. Otherwise, you would need to rewrite headers in a Hex Editor of your choice.
 
+**SFD Previewer**
+- Decodes and provides preview of SFD video files prior to export.
+<img src="https://i.imgur.com/AqhN8mT.png" width="800">
+
 ## Special Thanks
 - **essen** — Initial research and [gasetools](https://github.com/essen/gasetools)
 - **scriptkiddie** — Heavy research into PSU data formats
