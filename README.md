@@ -38,8 +38,8 @@ Updates
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
 Mods you create should be placed in the **Addon** folder and they will automatically load when the game launches.
 
-1. Open the tool → **File → Open** → select a hashed file from the DATA folder.
-2. The parser will automatically decrypt the file (if supported) and display its contents.
+1. Open the tool → **File → Open** → select a hashed file from the DATA folder or search for a file.
+2. The parser will automatically decrypt the file and display its contents.
 
 ### Common File Extensions & Their Purpose
 
@@ -79,10 +79,11 @@ If you want to edit audio files which are packed in .dat files, it is recommende
 ## Special Thanks
 - **Agrathejagged** — Tenora Works, documentation, and the general footing for all things modding for PSU
 - **VGStream** - KC for PSU AOTI
+- **Clementine Team** - Reviving and keeping the game running
 
 ## Included Third-Party Code
-- GIMSharp from Puyo Tools - https://github.com/nickworonekin/puyotools
-- PSU Generic Parser & PSULib - https://github.com/Agrathejagged/tenora-works
+- **GIMSharp from Puyo Tools** - https://github.com/nickworonekin/puyotools
+- **PSU Generic Parser & PSULib** - https://github.com/Agrathejagged/tenora-works
 - **NAudio**: Allows sampling of ADPCM data - https://github.com/naudio/naudio
 - **PL_MPEG**: Allows previewing of SFD video files - https://github.com/phoboslab/pl_mpeg
 - **WPFHexaEditor**: Hex Viewer - https://github.com/abbaye/WpfHexEditorControl
