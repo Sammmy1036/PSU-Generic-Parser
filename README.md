@@ -7,16 +7,6 @@
   <em>(Forked from Tenora Works PSU Generic Parser)</em>
 </p>
 
-## What's Included
-
-- **PSU Archive Explorer**: A general-purpose research and editing tool focused on individual files.
-- **PSULib**: Core DLL containing all file format classes.
-- **NAudio**: Allows sampling of ADPCM data.
-- **PL_MPEG**: Allows previewing of SFD video files. 
-- **AdxDecoder**: Automatic decoding of ADX audio files to WAV format.
-- **AdxDat Previewer**: Prepares ADX and DAT Sound files for preview.
-- **DATConverter**: Automatic header removal and conversion of DAT sound files to WAV format.
-
 ## Whats Changed
 
 New Features
@@ -87,14 +77,15 @@ If you want to edit audio files which are packed in .dat files, it is recommende
 <img src="https://i.imgur.com/AqhN8mT.png" width="800">
 
 ## Special Thanks
-- **essen** — Initial research and [gasetools](https://github.com/essen/gasetools)
-- **scriptkiddie** — Heavy research into PSU data formats
 - **Agrathejagged** — Tenora Works, documentation, and the general footing for all things modding for PSU
-- **VGStream Team** - KC for PSU AOTI
+- **VGStream** - KC for PSU AOTI
 
 ## Included Third-Party Code
-- GIMSharp from [Puyo Tools](https://github.com/nickworonekin/puyotools)
-- [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl)
-- PSU Generic Parser & PSULib from (https://github.com/Agrathejagged/tenora-works)
+- GIMSharp from Puyo Tools - https://github.com/nickworonekin/puyotools
+- PSU Generic Parser & PSULib - https://github.com/Agrathejagged/tenora-works
+- **NAudio**: Allows sampling of ADPCM data - https://github.com/naudio/naudio
+- **PL_MPEG**: Allows previewing of SFD video files - https://github.com/phoboslab/pl_mpeg
+- **WPFHexaEditor**: Hex Viewer - https://github.com/abbaye/WpfHexEditorControl
+
 ---
 
