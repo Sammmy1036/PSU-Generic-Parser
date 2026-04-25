@@ -27,6 +27,7 @@ New Features
 - Now provides hints which will display if a file cannot be open and provides possible resolution
 - Now provides a preview of ADX and DAT Sound Files directly in PSU Archive Explorer prior to export
 - Now provides a preview of SFD Video Files directly in PSU Archive Explorer prior to export
+- Now provides a search bar where you can search directly for files from the hash index
 - PSULib now supports raw byte reads
 
 Bug Fixes
@@ -36,6 +37,7 @@ Bug Fixes
 - Fixes application and dialogue boxes not launching center screen
 - Fixes application crash when clicking in the .rel tree viewer box
 - Fixes application from not responding when moving the window on batch
+- Fixes application crash when loading zone .rel files
 
 Updates
 - .NET framework moved to 4.8
