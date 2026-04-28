@@ -33,6 +33,9 @@ Updates
 - Updated C# language to 7.3
 - Updated PSULib to now support raw byte reads
 
+Upcoming Features
+- Possible XNCP Viewer (if I can figure it out)
+
 ## How to Use the PSU Archive Explorer
 
 Phantasy Star Universe stores most game data inside the **DATA** folder.  
