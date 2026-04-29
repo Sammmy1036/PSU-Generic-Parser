@@ -59,7 +59,7 @@ Mods you create should be placed in the **Addon** folder and they will automatic
 | **VSO**   | Compiled Vertex Shader Object |
 | **XNA**   | Bone/skeleton name files |
 | **XNCP**  | UI layout and control files (HUD, menus, interfaces) |
-| **XNCF**  | Subimage mappings indexed to match the XNCP sprite sheet for (HUD, menus, interfaces) |
+| **XNCF**  | Bitmap font tables that map characters to subimages in a paired XNCP atlas (HUD, menus, interfaces) |
 | **XNJ**   | 3D model files |
 | **XNM**   | Model material and mesh data (usually paired with XNJ) |
 | **XNR**   | Parameter/data table files (item stats, weapons, enemy drops, skills, technics, AI, etc.) |
