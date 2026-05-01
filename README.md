@@ -34,7 +34,7 @@ Updates
 - Updated PSULib to now support raw byte reads
 
 Upcoming Features
-- XNCP & XNCF Viewer
+- XNCP, XNCF, & XNR Parsing Enhancements
 
 ## How to Use the PSU Archive Explorer
 
@@ -62,7 +62,7 @@ Mods you create should be placed in the **Addon** folder and they will automatic
 | **XNCF**  | Bitmap font tables that map characters to subimages in a paired XNCP atlas (HUD, menus, interfaces) |
 | **XNJ**   | 3D model files |
 | **XNM**   | Model material and mesh data (usually paired with XNJ) |
-| **XNR**   | Parameter/data table files (item stats, weapons, enemy drops, skills, technics, AI, etc.) |
+| **XNR**   | Parameter/data table files (UI/HUD Scaling, item stats, weapons, enemy drops, skills, technics, AI, etc.) |
 | **XNT**   | Texture list / material mapping files (links texture slots in models to actual XVR textures) |
 | **XVR**   | Texture files (characters, environments, UI, etc.) |
 
