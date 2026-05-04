@@ -369,11 +369,11 @@
   "project": {
     "version": "2.0.2",
     "restore": {
-      "projectUniqueName": "D:\\Games\\PSU Tools\\PSU Archive Explorer\\WPFHexaEditor\\WpfHexEditorCore.csproj",
+      "projectUniqueName": "C:\\Users\\Sammy\\source\\repos\\PSU-Archive-Explorer\\WPFHexaEditor\\WpfHexEditorCore.csproj",
       "projectName": "WPFHexaEditor",
-      "projectPath": "D:\\Games\\PSU Tools\\PSU Archive Explorer\\WPFHexaEditor\\WpfHexEditorCore.csproj",
+      "projectPath": "C:\\Users\\Sammy\\source\\repos\\PSU-Archive-Explorer\\WPFHexaEditor\\WpfHexEditorCore.csproj",
       "packagesPath": "C:\\Users\\Sammy\\.nuget\\packages\\",
-      "outputPath": "D:\\Games\\PSU Tools\\PSU Archive Explorer\\WPFHexaEditor\\obj\\",
+      "outputPath": "C:\\Users\\Sammy\\source\\repos\\PSU-Archive-Explorer\\WPFHexaEditor\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

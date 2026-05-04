@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Sammy\Downloads\tenora-works-main\WPFHexaEditor\obj\Debug\net48\
+C:\Users\Sammy\source\repos\PSU-Archive-Explorer\WPFHexaEditor\obj\Debug\net48\
 WpfHexaEditor
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NETFRAMEWORK;NET48;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREATE
 19540559201
 Dialog\FindReplaceWindow.xaml;Dialog\FindWindow.xaml;Dialog\GiveByteWindow.xaml;Dialog\ReplaceByteWindow.xaml;HexBox.xaml;HexEditor.xaml;Resources\Dictionary\BrushesDictionary.xaml;Resources\Dictionary\MiscelanousDictionary.xaml;Resources\Dictionary\ToolTipDictionary.xaml;
 
-False
+True
 

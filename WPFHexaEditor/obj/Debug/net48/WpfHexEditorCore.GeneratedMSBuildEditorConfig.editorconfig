@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = WpfHexaEditor
-build_property.ProjectDir = C:\Users\Sammy\Downloads\tenora-works-main\WPFHexaEditor\
+build_property.ProjectDir = C:\Users\Sammy\source\repos\PSU-Archive-Explorer\WPFHexaEditor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
